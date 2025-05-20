@@ -1,0 +1,4 @@
+@import url('./css/card/card.css');
+@import url('./css/places/places.css');
+@import url('../../host/blocks/popup/popup.css');
+@import url('../../host/blocks/popup/_is-opened/popup_is-opened.css');
