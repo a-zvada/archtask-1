@@ -19,3 +19,4 @@
 
 # Задание 2
 https://drive.google.com/file/d/1MvpKYGdcOL989zGUG82jk2vmDVjQuo1u/view?usp=sharing
+Попытался доработать схему, но не до конца понимаю что к чему с учетом того, что непонятно, архитектуру чего я описываю.
